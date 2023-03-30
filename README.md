@@ -2,6 +2,7 @@
 ### CSE3306- Essentials of Data Analytics Project 
 
 ---
+
 ### Implementation:
 1. Data Pre-processing
 The Suicides in India dataset was imported from Kaggle and loaded. It contains several parameters like state, year, gender, age types which include suicide causes, by means adopted, professional profile, social status etc that could be reasons for committing suicide. We checked if the dataset contained missing/null values. Since the dataset was already clean, we further went to the exploratory data analysis part.
